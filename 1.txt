@@ -1,2 +1,3 @@
 learn git 
 git is a free software
+modify first time
